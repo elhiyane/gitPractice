@@ -5,5 +5,6 @@ public class logCall {
         
        //i will see this in intellij
         //am I be amazed?
+        //check the status
     }
 }
